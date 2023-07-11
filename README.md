@@ -1,1 +1,1 @@
-# myScripts
+util scripts for bash
